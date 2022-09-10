@@ -47,6 +47,8 @@ void rush(int a, int b)
 
 	int i;
 	i = 0;
+	b--;
+	b--;
 	while(i < b)
 	{
 		ft_printmidline(a);
